@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Dr. Suresh Reddy",
+    "email": "suresh@hospital2.gov",
+    "role": "institutional_admin",
+    "institutionId": "inst-2"
+  },
+  {
+    "name": "Dr. Anjali Patel",
+    "email": "anjali@hospital1.gov",
+    "role": "institutional_admin",
+    "institutionId": "inst-1"
+  },
+  {
+    "name": "Pharmacist Meera Nair",
+    "email": "meera@hospital2.gov",
+    "role": "participant",
+    "institutionId": "inst-2"
+  },
+  {
+    "name": "Dr. Rajesh Verma",
+    "email": "rajesh@dmo.gov",
+    "role": "program_officer"
+  },
+  {
+    "name": "Dr. Lakshmi Iyer",
+    "email": "lakshmi@hospital1.gov",
+    "role": "participant",
+    "institutionId": "inst-1"
+  },
+  {
+    "name": "Dr. Priya Sharma",
+    "email": "priya@dmo.gov",
+    "role": "program_officer"
+  },
+  {
+    "name": "Nurse Kavita Singh",
+    "email": "kavita@hospital1.gov",
+    "role": "participant",
+    "institutionId": "inst-1"
+  },
+  {
+    "name": "Dr. Amit Desai",
+    "email": "amit@hospital1.gov",
+    "role": "participant",
+    "institutionId": "inst-1"
+  },
+  {
+    "name": "Lab Technician Ramesh",
+    "email": "ramesh@phc1.gov",
+    "role": "participant",
+    "institutionId": "inst-3"
+  },
+  {
+    "name": "Dr. Admin Kumar",
+    "email": "admin@dmo.gov",
+    "role": "master_admin"
+  },
+  {
+    "name": "Adnan",
+    "email": "adnan@mail",
+    "role": "participant",
+    "institutionId": "inst-1"
+  }
+]
